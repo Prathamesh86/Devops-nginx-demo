@@ -9,3 +9,7 @@ sudo systemctl enable nginx
 
 
 echo "nginx will addeddd successfully"
+
+
+
+Happy learning
